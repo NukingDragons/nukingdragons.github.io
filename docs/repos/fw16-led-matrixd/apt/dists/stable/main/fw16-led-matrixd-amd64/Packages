@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: amd64
 Maintainer: Sabrina Andersen <sabrina@utd.tf>
 Filename: pool/fw16-led-matrixd_1.0.0-1_amd64.deb
-Size: 1254180
-MD5sum: 4421b8248f11892058fa7781b7ad6c55
-SHA1: 8a7840727071ef27fb1976616d6d2a7ec9d40065
-SHA256: 4510a98823abf0ba1f4cbe030012a3a73cdc9ce904e51c79410e74982087ca58
+Size: 1254124
+MD5sum: a031b15aba634e2dcf0c6f3062d507ed
+SHA1: f60a2345889647393a217eecfcb2c91bafdb03e3
+SHA256: 0cf57781a6061b0382c9f99740958448f4f45414fe738029ca49ed6fc2fca27b
 Section: main
 Priority: optional
 Homepage: https://github.com/NukingDragons/fw16-led-matrixd

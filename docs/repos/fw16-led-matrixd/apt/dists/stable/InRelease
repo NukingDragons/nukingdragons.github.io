@@ -9,26 +9,26 @@ Version: 1.0.0
 Architectures: amd64 i386
 Components: main
 Description: A repo containing a cross-platform daemon for controlling the Framework 16 LED Matrixes
-Date: Wed, 19 Feb 2025 15:02:50 +0000
+Date: Wed, 19 Feb 2025 15:48:37 +0000
 MD5Sum:
-c6100a8dfd3df9285f67d8dd8bafa562 376 main/fw16-led-matrixd-i386/Packages.gz
-09ab3293c749e454a000b8c1b88746c0 507 main/fw16-led-matrixd-i386/Packages
-2e63e7ebb256318eea6e1994fde64085 378 main/fw16-led-matrixd-amd64/Packages.gz
-84e7def8bfa9021175f0e2a0b20dedc3 509 main/fw16-led-matrixd-amd64/Packages
+ 49bb03e8a4e911cd2c89fa2e8781b29f 377 main/fw16-led-matrixd-i386/Packages.gz
+ d10226e4d2471f72d5482965f675a70f 507 main/fw16-led-matrixd-i386/Packages
+ 7de7384157e8fe8c81e1ec6afd3be7ad 379 main/fw16-led-matrixd-amd64/Packages.gz
+ b2d73e93d4f5469de884b6412f923ece 509 main/fw16-led-matrixd-amd64/Packages
 SHA1:
-820ec6cdc8f4ba616f54509b3c669a2f4237ed0a 376 main/fw16-led-matrixd-i386/Packages.gz
-1784e46b91b102173ae5e088ff54858f38a33565 507 main/fw16-led-matrixd-i386/Packages
-350b43253cb3ef7750b19eb1236a19e4a4142ef8 378 main/fw16-led-matrixd-amd64/Packages.gz
-e83bec0af6374641e207124555e72894844b2299 509 main/fw16-led-matrixd-amd64/Packages
+ 3f17f8605fb0db55a9fe768c04e63513b0d16fb1 377 main/fw16-led-matrixd-i386/Packages.gz
+ 7284e38b71d8c2800e71a1e15a2d325da0b38bb3 507 main/fw16-led-matrixd-i386/Packages
+ e08f74eb00c6cf929c26235812fbbc07bf5a3822 379 main/fw16-led-matrixd-amd64/Packages.gz
+ d150b36b8ec4c21a134dd5a420bf002274918448 509 main/fw16-led-matrixd-amd64/Packages
 SHA256:
-bd22053c1e34c451c64f163e10d7185eef2b0d829b1ba78e552ba90167d6f888 376 main/fw16-led-matrixd-i386/Packages.gz
-ba6408d9bbe58e31172b87a7844e9568fdf0b630f2cd2a1af6b988502ede58f6 507 main/fw16-led-matrixd-i386/Packages
-bc762a6f912eceeb4616793a9ae1ada9147fcccc1f166566c5334cc2e5eb5332 378 main/fw16-led-matrixd-amd64/Packages.gz
-4a2ee5dc075fc1f9372e91e937644c47c567caafe37291a210a8226f13ce3d63 509 main/fw16-led-matrixd-amd64/Packages
+ 1e71aed6eab8c97b3bb92c015496436ed2e0f078f15d37faa5f07d1a97e639b7 377 main/fw16-led-matrixd-i386/Packages.gz
+ eca8789345309d8bcbf3cdd2d3e83ae92f8a861add6d5d680f9be098f4ede727 507 main/fw16-led-matrixd-i386/Packages
+ db5d07ad5a487c3d121079a85a0d391c6de7ea4e988811d171257d43f1eb6d04 379 main/fw16-led-matrixd-amd64/Packages.gz
+ 1c1a234709f28fb00ad69dec1a8e40e11485210b68c500ca78663425b8afd481 509 main/fw16-led-matrixd-amd64/Packages
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQRHBOQsI+2nJcxckVkPI3YPwhB6BgUCZ7XymgAKCRAPI3YPwhB6
-BsGzAP9B5Vk7tXLJDHG8T2FGGoZba8hyLFI8iKZTl3D4CPN/VQEA5KyhetrU5uTS
-3hlakPdFNTFBkArE8g32Ekr245R0BA8=
-=s3zF
+iHUEARYKAB0WIQRHBOQsI+2nJcxckVkPI3YPwhB6BgUCZ7X9VQAKCRAPI3YPwhB6
+BiL5AP4gtX4e6C8Hw3TUG4rgp7lAByat0+sXWZdSJgQiARl9JAD/euBzYwq2EkJ0
+/i5AYEYXA0sCuZ7Y2Rof3f+itXkPswo=
+=v0HV
 -----END PGP SIGNATURE-----
