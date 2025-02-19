@@ -20,7 +20,7 @@ echo "Updating repositories and installing the daemon"
 sudo apt update
 sudo apt install fw16-led-matrixd
 
-echo "Be sure to configure /etc/fw16-led-matrixd/config.toml, you can determine the ports by issuing the command at any time:"
+echo "Be sure to configure /etc/fw16-led-matrixd/config.toml, you can determine the ports by issuing this command at any time:"
 echo "ledcli list"
 echo ""
 echo "Current ports on your system at this time"
