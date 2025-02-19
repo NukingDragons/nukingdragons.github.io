@@ -6,19 +6,19 @@ Version: 1.0.0
 Architectures: amd64 i386
 Components: main
 Description: A repo containing a cross-platform daemon for controlling the Framework 16 LED Matrixes
-Date: Wed, 19 Feb 2025 15:48:37 +0000
+Date: Wed, 19 Feb 2025 15:55:49 +0000
 MD5Sum:
- 49bb03e8a4e911cd2c89fa2e8781b29f 377 main/fw16-led-matrixd-i386/Packages.gz
- d10226e4d2471f72d5482965f675a70f 507 main/fw16-led-matrixd-i386/Packages
- 7de7384157e8fe8c81e1ec6afd3be7ad 379 main/fw16-led-matrixd-amd64/Packages.gz
- b2d73e93d4f5469de884b6412f923ece 509 main/fw16-led-matrixd-amd64/Packages
+ 9193b320af1a7ba30f05eadf16120cde 379 main/binary-i386/Packages.gz
+ 710c238bcff3d899a515cd10e9c5f0b4 507 main/binary-i386/Packages
+ 2b96782e72826de4c9bc2615cd12c8f6 376 main/binary-amd64/Packages.gz
+ e620f7ca849bc9197d1822e37874530d 509 main/binary-amd64/Packages
 SHA1:
- 3f17f8605fb0db55a9fe768c04e63513b0d16fb1 377 main/fw16-led-matrixd-i386/Packages.gz
- 7284e38b71d8c2800e71a1e15a2d325da0b38bb3 507 main/fw16-led-matrixd-i386/Packages
- e08f74eb00c6cf929c26235812fbbc07bf5a3822 379 main/fw16-led-matrixd-amd64/Packages.gz
- d150b36b8ec4c21a134dd5a420bf002274918448 509 main/fw16-led-matrixd-amd64/Packages
+ d87fe69f36c9c148e65457c2e2b172ac91b8829e 379 main/binary-i386/Packages.gz
+ 52f1dc7f248657b7a16a776cbdd78be8d960f134 507 main/binary-i386/Packages
+ 5c00a593350da6f0f2ee00e5fa8265a8f545ade7 376 main/binary-amd64/Packages.gz
+ 3fe847f35c9b8a5d1f082c56cd0f3ee8f4006fd5 509 main/binary-amd64/Packages
 SHA256:
- 1e71aed6eab8c97b3bb92c015496436ed2e0f078f15d37faa5f07d1a97e639b7 377 main/fw16-led-matrixd-i386/Packages.gz
- eca8789345309d8bcbf3cdd2d3e83ae92f8a861add6d5d680f9be098f4ede727 507 main/fw16-led-matrixd-i386/Packages
- db5d07ad5a487c3d121079a85a0d391c6de7ea4e988811d171257d43f1eb6d04 379 main/fw16-led-matrixd-amd64/Packages.gz
- 1c1a234709f28fb00ad69dec1a8e40e11485210b68c500ca78663425b8afd481 509 main/fw16-led-matrixd-amd64/Packages
+ 3e6f83b19727c1950fc762c914a7148aa254c43d594bbeb273d96e625982c9e1 379 main/binary-i386/Packages.gz
+ 07395738bb2fee28cfa31d080249902bb8cd691021ab52277843488d07aa67a8 507 main/binary-i386/Packages
+ 8886e00c3a9a92b5db5b9c77c783811e743cb24f449ae2c61915c182eadb6954 376 main/binary-amd64/Packages.gz
+ 099807d64fd263ad62d9697e4ec397dfc1bc37a6da5b5faef1701248a20feb7d 509 main/binary-amd64/Packages
