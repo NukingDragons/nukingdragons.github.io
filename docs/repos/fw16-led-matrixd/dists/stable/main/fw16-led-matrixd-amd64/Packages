@@ -1,0 +1,14 @@
+Package: fw16-led-matrixd
+Version: 1.0.0
+Architecture: amd64
+Maintainer: Sabrina Andersen <sabrina@utd.tf>
+Filename: pool/fw16-led-matrixd_1.0.0-1_amd64.deb
+Size: 1254156
+MD5sum: c8d65910786491fd423d8b3cf2d2405d
+SHA1: 7a55e50d0d5efc4300fb09e080788c90be6be60f
+SHA256: 938c97a0e720f18731820ea9a01477be55e50ac630532d5860cb23483f255b54
+Section: main
+Priority: optional
+Homepage: https://github.com/NukingDragons/fw16-led-matrixd
+Description: A cross-platform daemon for controlling the Framework 16 LED Matrixes
+
