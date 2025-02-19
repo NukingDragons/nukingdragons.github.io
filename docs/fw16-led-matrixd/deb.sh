@@ -1,8 +1,8 @@
 echo "Checking to see if the repository exists already"
-if [[ -z $(ls /etc/apt/sources.list.d/fw16-led-matrixd.list) ]]
+if [[ -z $(ls /etc/apt/sources.list.d/fw16-led-matrixd.list 2>/dev/null) ]]
 then
 	echo "Checking to see if the GPG key is installed"
-	if [[ -z $(ls /etc/apt/trusted.gpg.d/nukingdragons.gpg) ]]
+	if [[ -z $(ls /etc/apt/trusted.gpg.d/nukingdragons.gpg 2>/dev/null) ]]
 	then
 		echo "Installing the repositories public GPG key to /etc/apt/trusted.gpg.d/nukingdragons.gpg"
 		curl -s https://nukingdragons.github.io/key.gpg | sudo gpg --dearmor --output /etc/apt/trusted.gpg.d/nukingdragons.gpg
