@@ -3,10 +3,10 @@ Version: 1.0.0
 Architecture: i386
 Maintainer: Sabrina Andersen <sabrina@utd.tf>
 Filename: pool/fw16-led-matrixd_1.0.0-1_i386.deb
-Size: 1369624
-MD5sum: c0d4181991f4d87cb6c7a3394a2d7a9d
-SHA1: e1e4d2ff983723b39a100fe338592fe78778d050
-SHA256: bf47706858af94106d89d5232d0f136b1d97dc0e181c5a5ffd898aaba356faaa
+Size: 1369244
+MD5sum: 0c446b637c75452fb38a653b68268dea
+SHA1: 0ab5a6f8fedce4d2ae991af723a1712f52e86828
+SHA256: 80975cb5d40b3b3009265384740b98ecb9808353add9011c6964b1ef5566315d
 Section: main
 Priority: optional
 Homepage: https://github.com/NukingDragons/fw16-led-matrixd

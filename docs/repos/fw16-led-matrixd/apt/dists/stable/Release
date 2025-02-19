@@ -6,19 +6,19 @@ Version: 1.0.0
 Architectures: amd64 i386
 Components: main
 Description: A repo containing a cross-platform daemon for controlling the Framework 16 LED Matrixes
-Date: Wed, 19 Feb 2025 15:55:49 +0000
+Date: Wed, 19 Feb 2025 16:05:30 +0000
 MD5Sum:
- 9193b320af1a7ba30f05eadf16120cde 379 main/binary-i386/Packages.gz
- 710c238bcff3d899a515cd10e9c5f0b4 507 main/binary-i386/Packages
- 2b96782e72826de4c9bc2615cd12c8f6 376 main/binary-amd64/Packages.gz
- e620f7ca849bc9197d1822e37874530d 509 main/binary-amd64/Packages
+ 714e760396f1340bd4998cc071fa01e5 377 main/binary-i386/Packages.gz
+ 96d22115c0cb42eadccaa57c264e36f2 507 main/binary-i386/Packages
+ 7ff9bfd06392d830a7c01009322508e1 378 main/binary-amd64/Packages.gz
+ 8337d220b25982117a46d493516a01dc 509 main/binary-amd64/Packages
 SHA1:
- d87fe69f36c9c148e65457c2e2b172ac91b8829e 379 main/binary-i386/Packages.gz
- 52f1dc7f248657b7a16a776cbdd78be8d960f134 507 main/binary-i386/Packages
- 5c00a593350da6f0f2ee00e5fa8265a8f545ade7 376 main/binary-amd64/Packages.gz
- 3fe847f35c9b8a5d1f082c56cd0f3ee8f4006fd5 509 main/binary-amd64/Packages
+ a30fdf9fc6e3ced5820d31b5ea88fd14d80a1557 377 main/binary-i386/Packages.gz
+ a5dd124e6c358451243a18a6298e7631586c6de8 507 main/binary-i386/Packages
+ 43a754c9d6f03a322909e619bb79718841714787 378 main/binary-amd64/Packages.gz
+ 8db55a6d381c7f8487b7fff498811665e51fee99 509 main/binary-amd64/Packages
 SHA256:
- 3e6f83b19727c1950fc762c914a7148aa254c43d594bbeb273d96e625982c9e1 379 main/binary-i386/Packages.gz
- 07395738bb2fee28cfa31d080249902bb8cd691021ab52277843488d07aa67a8 507 main/binary-i386/Packages
- 8886e00c3a9a92b5db5b9c77c783811e743cb24f449ae2c61915c182eadb6954 376 main/binary-amd64/Packages.gz
- 099807d64fd263ad62d9697e4ec397dfc1bc37a6da5b5faef1701248a20feb7d 509 main/binary-amd64/Packages
+ bfc07ae0eb4710082639567b145f95fa80c6817078b2cda4e4d790da7f185a17 377 main/binary-i386/Packages.gz
+ 6180a9a2e71074c4ea57e681e5185c161fabca33b0c7be5386caff94698be4c3 507 main/binary-i386/Packages
+ 0e22ad21375bc857d24edbf14b89385d9bb4c1dad9f6927167357e7a0993c1cd 378 main/binary-amd64/Packages.gz
+ 867deffa7247b1731bd5c1abd1d65542d6caf21c8487649187974027a2cdcd37 509 main/binary-amd64/Packages
