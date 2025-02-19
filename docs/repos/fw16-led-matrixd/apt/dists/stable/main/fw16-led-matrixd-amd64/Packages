@@ -1,12 +1,12 @@
 Package: fw16-led-matrixd
 Version: 1.0.0
-Architecture: i386
+Architecture: amd64
 Maintainer: Sabrina Andersen <sabrina@utd.tf>
-Filename: pool/fw16-led-matrixd_1.0.0-1_i386.deb
-Size: 1370180
-MD5sum: fa68eeab2ecf1c1fd5cb3c08e1969e1d
-SHA1: 8511eb9879f2a527310f4614c702d4792c1b09b2
-SHA256: bf0c3839047002e7d766c3dde8e1ac9ac063c16e43f33851c899cf43874a1c71
+Filename: pool/fw16-led-matrixd_1.0.0-1_amd64.deb
+Size: 1254180
+MD5sum: 4421b8248f11892058fa7781b7ad6c55
+SHA1: 8a7840727071ef27fb1976616d6d2a7ec9d40065
+SHA256: 4510a98823abf0ba1f4cbe030012a3a73cdc9ce904e51c79410e74982087ca58
 Section: main
 Priority: optional
 Homepage: https://github.com/NukingDragons/fw16-led-matrixd
